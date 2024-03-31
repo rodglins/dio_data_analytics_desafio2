@@ -12,6 +12,6 @@ select Fname , 'James' as gerente from employee e where Super_ssn = 888665555;
 
 ##Resultado
 
-Franklin = 3 (John; Joyce; Ramesh)
-Jennifer = 2 (Ahmad; Alicia)
+Franklin = 3 (John; Joyce; Ramesh);;
+Jennifer = 2 (Ahmad; Alicia);;
 James = 2 (Franklin; Jennifer)
