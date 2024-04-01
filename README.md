@@ -2,14 +2,6 @@
 Desafio de projeto Dio Data Analytics conectar Azure MySQL flexible server com o Power Bi Desktop
 
 
-##Query levantar gerentes:
-
-
-
-
-----------
-
-
 
 1. Criação de uma instância na Azure para MySQL - OK
 
